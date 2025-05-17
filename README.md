@@ -13,7 +13,7 @@ Modern Controller Overhaul texture extension, designed for DualShock controllers
 Ensure you place ABOVE Modern Controller Overhaul and OVERWRTIE current dualshock texture packs. (You may need to delete the OG Dualshock.rtz)
 You should keep Texture Replacement enabled in Modern Controller Overhaul
 
-Please credit me (Blitz_rgg) if you do choose to build upon my texture pack for whatever reason.
+Please credit me (Blitz_rgg) if you do choose to build upon my texture pack for whatever reason or if you showcase my texture pack!
 
 
 HOW TO INSTALL-
