@@ -9,6 +9,16 @@ Honestly everyone was such a huge help and I'm so grateful that they were paiten
 Original repo can be found here -
 https://github.com/t0mtee/MMModernControllerOverhaul/
 
+Dependicies for my Texture pack include-
+
+Modern Controller Overhual by tomtee (3.0.0 or above)
+
+https://thunderstore.io/c/zelda-64-recompiled/p/tomtee/Modern_Controller_Overhaul/ 
+
+EZ Text Replacer API by LT_Schmiddy
+
+https://thunderstore.io/c/zelda-64-recompiled/p/LT_Schmiddy/EZ_Text_Replacer_API/
+
 Modern Controller Overhaul texture extension, designed for DualShock controllers with Square as Attack/Cancel and Cross as Action/Accept.
 Ensure you place ABOVE Modern Controller Overhaul and OVERWRTIE current dualshock texture packs. (You may need to delete the OG Dualshock.rtz)
 You should keep Texture Replacement enabled in Modern Controller Overhaul
@@ -22,7 +32,7 @@ HOW TO INSTALL-
 
 ![Layout](https://github.com/user-attachments/assets/80dde442-428e-49a2-97d1-9fbd106df721)
 
-2. Then in the Controler tab match what is in this image
+2. Then in the Controler tab of Zelda64Recomp match what is in this image
 
 ![controllersettings](https://github.com/user-attachments/assets/68d3c291-5527-4318-b778-516c744ac1c0)
 
