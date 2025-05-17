@@ -27,8 +27,12 @@ HOW TO INSTALL-
 ![controllersettings](https://github.com/user-attachments/assets/68d3c291-5527-4318-b778-516c744ac1c0)
 
 3. Overwrite the original DualShock.rtz to update to my controll scheme!
+   
    OR
+   
    Delete the Original 'Dualshock.rtz' from your mods folder and place 'Square&Cross.rtz'
+
+   
 
 AND YOU'RE DONE!!!
 
