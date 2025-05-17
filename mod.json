@@ -1,0 +1,12 @@
+{
+    "authors" : [
+        "tomtee", "pizza1398", "Blitz_rgg", "GhostlyDark", "Nerrel"
+    ],
+    "description" : "Modern Controller Overhaul texture extension, designed for DualShock controllers with Square as Attack/Cancel and Cross as Action/Accept.\n\nEnsure you place ABOVE Modern Controller Overhaul and OVERWRTIE current dualshock texture packs. (You may need to delete the OG Dualshock.rtz)\n\nYou should keep Texture Replacement enabled in Modern Controller Overhaul.",
+    "display_name" : "MCO - DualShock (Square+Cross)",
+    "game_id" : "mm",
+    "id" : "MCO_DualShock",
+    "minimum_recomp_version" : "1.2.0",
+    "short_description" : "DualShock Controller Textures",
+    "version" : "2.0.0"
+}
